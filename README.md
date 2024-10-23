@@ -2,7 +2,8 @@
 
 This is my first python project. 
 
-## About:
+
+## About
 This program helps solve a number puzzle where you find a 6-digit number SLAYER that satisfies the equation:
 
 ```bash
@@ -10,6 +11,7 @@ SLAYER + SLAYER + SLAYER = LAYERS
 ```
 
 Each letter represents a unique digit. The challenge is to guess the correct number that fits this equation.
+
 
 
 ## SLAYER Puzzle
